@@ -6,7 +6,7 @@ I’m passionate about turning raw data into meaningful insights and building in
 
 ## 🚀 What I’m Into
 - Exploring data with Python & SQL
-    Data collection, Data cleaning and preprocessing, Data analysis, Data visualization, Model development, Insight generation, Storytelling with Data.
+- Data collection, Data cleaning and preprocessing, Data analysis, Data visualization, Model development, Insight generation, Storytelling with Data.
 - Building and improving ML models
 - Tackling real-world problems through data
 
