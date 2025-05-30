@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Samuel 
 
-💻 IT Professional | 📊 Data Science & Machine Learning Engineer
+💻 IT Professional | 📊 Data Science & Machine Learning Enthusiast
 
 I’m passionate about turning raw data into meaningful insights and building intelligent systems that solve real-world problems.
 
