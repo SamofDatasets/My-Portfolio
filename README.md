@@ -40,7 +40,7 @@ These aren’t just repositories — they’re real-world analytics solutions bu
 ## 🤝 Let’s Connect!
 I'm always open to collaborating on data-driven projects or chatting about analytics, storytelling, or the future of data.
 
-- 📬 [Email](samuelkayode.datasets423@gmail.com)
+- 📬 Email: samuelkayode.datasets423@gmail.com
 - 🔗 [LinkedIn](http://www.linkedin.com/in/samuel-kayode-22371b216)
 
 ---
