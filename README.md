@@ -16,7 +16,7 @@ These aren’t just repositories — they’re real-world analytics solutions bu
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| 🏥 [Patient Visits Analytics Dashboard](https://github.com/SamofDatasets/powerbi-healthcare-project) | Interactive Power BI dashboard analyzing patient satisfaction, wait times, visit frequency, and referral patterns to improve hospital efficiency and care delivery. | Power BI, Excel |
+| 🏥 [Healthcare Analytics Dashboard](https://github.com/SamofDatasets/healthcare-analytics-dashboard) | Developed an interactive Power BI dashboard for healthcare analytics, covering financial KPIs, provider performance, and patient trends | Power BI, Excel |
 | 🗃️ [SQL Data Warehouse Project](https://github.com/SamofDatasets/sql-data-warehouse-project) | Built a modern SQL Server data warehouse with dimensional modeling, optimized ETL pipelines, and structured reporting layers to enable data-driven decision-making. | SQL Server, dbt, ETL |
 | 📈 [Advanced SQL Data Analytics](https://github.com/SamofDatasets/sql-data-analytics-project) | A professional collection of SQL scripts solving real-world business problems including KPI tracking, time-series analysis, segmentation, and database audits. | SQL, PostgreSQL/MySQL |
 
